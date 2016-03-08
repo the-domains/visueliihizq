@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VISUEL II Hizq]]></title>
+        <description><![CDATA[VISUEL II Hizq]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 19:16:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[All Natural ]]></title>
+            <description><![CDATA[<article><h1>All Natural </h1><p>Natural Hair Care in Baltimore</p></article>]]></description>
+            <link>undefinedall-natural/index.html</link>
+            <guid isPermaLink="false">9e46f664-18cb-4634-955e-fe387decf975</guid>
+            <pubDate>Tue, 08 Mar 2016 19:16:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
