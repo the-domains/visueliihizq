@@ -1,4 +1,8 @@
-layout_spectrum: 0.2419355
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -9,32 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.9257670140359551
-  brandStrength: 0.6482399571686983
-  rhythmicContrast: 0.603613622719422
+  saturation: 0.8584229
+  brandStrength: 1
+  lightness: 0.6702509
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  lightness: 0.2928858946543187
+    - '#9A9891'
+    - '#F0AE31'
+    - '#EBF0F3'
+    - '#A28A4B'
+    - '#2E2018'
+  rhythmicContrast: 0.6863799
 typography_spectrum: 0.5519713
+layout_spectrum: 0.2419355
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 name: VISUEL II Hizq
