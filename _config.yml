@@ -1,8 +1,7 @@
 name: VISUEL II Hizq
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.5519713
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5913978
-  brandStrength: 1
-  lightness: 0.4767025
   brandColors:
     - '#9A9891'
     - '#F0AE31'
     - '#EBF0F3'
     - '#A28A4B'
     - '#2E2018'
+  brandStrength: 1
+  lightness: 0.5625
+  saturation: 0.5913978
   rhythmicContrast: 1
-typography_spectrum: 0.5519713
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-layout_spectrum: 0
+purpose: []
