@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Flora Borsi
-    url: 'http://www.behance.net/yayuniversal'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.behance.net'
-  name: Behance
-  favicon: 'https://a3.behance.net/img/site/favicon.ico?cb=680286668'
-  domain: bit.ly
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://bit.ly/1WUUnia'
+inLanguage: en
+starred: false
 keywords:
   - adobe
   - intuos
@@ -21,22 +17,28 @@ keywords:
   - stock
   - 2006-2016
 description: 'Photographer, Model, Retoucher: Flora Borsi'
-inLanguage: en
+datePublished: '2016-03-09T23:10:57.462Z'
+dateModified: '2016-03-09T23:10:45.130Z'
+author:
+  - name: Flora Borsi
+    url: 'http://www.behance.net/yayuniversal'
+    avatar: {}
+related: []
 app_links:
   - url: 'behance://project/32763127'
     namespace: twitter
     type: iphone
     id: '489667151'
     name: Behance
-isBasedOnUrl: 'http://bit.ly/1WUUnia'
 title: Animeyed (Self-Portraits)
-datePublished: '2016-03-09T20:17:11.576Z'
-dateModified: '2016-03-09T20:11:12.607Z'
 sourcePath: _posts/2016-03-09-animeyed-self-portraits.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Behance
+  domain: bit.ly
+  url: 'http://www.behance.net'
+  favicon: 'https://a3.behance.net/img/site/favicon.ico?cb=680286668'
 _context: 'http://schema.org'
 _type: MediaObject
 
