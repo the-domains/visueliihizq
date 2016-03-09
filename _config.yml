@@ -1,8 +1,4 @@
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: VISUEL II Hizq
 opengraph:
   image: null
   type: null
@@ -13,28 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.8584229
+  saturation: 0.5913978
   brandStrength: 1
-  lightness: 0.6702509
+  lightness: 0.4767025
   brandColors:
     - '#9A9891'
     - '#F0AE31'
     - '#EBF0F3'
     - '#A28A4B'
     - '#2E2018'
-  rhythmicContrast: 0.6863799
+  rhythmicContrast: 1
 typography_spectrum: 0.5519713
-layout_spectrum: 0.2419355
 cta:
   bucket: null
   version: null
   domain: null
-name: VISUEL II Hizq
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+layout_spectrum: 0
