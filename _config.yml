@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.6875
-  brandStrength: 1
-  rhythmicContrast: 1
+  brandStrength: 0
+  lightness: 0.5625
   brandColors:
     - '#9A9891'
     - '#F0AE31'
     - '#EBF0F3'
     - '#A28A4B'
     - '#2E2018'
-  lightness: 0.5625
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: VISUEL II Hizq
 favicon: null
+name: VISUEL II Hizq
 opengraph:
   image: null
   type: null
