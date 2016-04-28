@@ -1,8 +1,7 @@
+name: VISUEL II Hizq
+favicon: null
+layout_spectrum: 0.50498
 typography_spectrum: 0.84639
-opengraph:
-  image: null
-  type: null
-  appId: null
 collections:
   - index:
       path: /
@@ -15,27 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.3077572
 title: VISUEL II Hizq
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6875
-  brandStrength: 0
-  rhythmicContrast: 1
   brandColors:
     - '#9A9891'
     - '#F0AE31'
     - '#EBF0F3'
     - '#A28A4B'
     - '#2E2018'
+  brandStrength: 0
   lightness: 0.5625
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: VISUEL II Hizq
+  saturation: 0.6875
+  rhythmicContrast: 1
+purpose: []
